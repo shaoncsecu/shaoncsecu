@@ -1,4 +1,4 @@
-<h1 align="center">👋 "He taught Adam the names of all things..." (2:31) 😄</h1>
+<h1 align="center"> 📖"He taught Adam the names of all things..." (2:31) 😇</h1>
 
 <!--
 **shaoncsecu/shaoncsecu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
